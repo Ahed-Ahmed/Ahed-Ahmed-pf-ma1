@@ -18,7 +18,8 @@ var twenty = 20,
 
 //question 5
 
-var frog = true;
+var value = "frog";
+typeof value
 
 //question 6
 
